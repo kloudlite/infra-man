@@ -1,0 +1,1347 @@
+[
+  {
+    "status": "installing",
+    "id": "CLUS-9071",
+    "name": "VGA",
+    "region": {
+      "provider": "AWS",
+      "region": "ap-northeast-2",
+      "zones": [
+        "me-south-1b",
+        "me-south-1a"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-9350",
+    "name": "SMS",
+    "region": {
+      "provider": "IBM",
+      "region": "us-east",
+      "zones": [
+        "jp-osa-2",
+        "jp-osa-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-3110",
+    "name": "ASCII",
+    "region": {
+      "provider": "AWS",
+      "region": "eu-central-2",
+      "zones": [
+        "ap-northeast-2d",
+        "ap-northeast-2b"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-3951",
+    "name": "RAM",
+    "region": {
+      "provider": "AWS",
+      "region": "us-west-2",
+      "zones": [
+        "sa-east-1a",
+        "sa-east-1c"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-8066",
+    "name": "VGA",
+    "region": {
+      "provider": "Oracle",
+      "region": "eu-stockholm-1",
+      "zones": [
+        "DXB-AD-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-6919",
+    "name": "AGP",
+    "region": {
+      "provider": "OVH",
+      "region": "sgp",
+      "zones": [
+        "sgp-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-5198",
+    "name": "OCR",
+    "region": {
+      "provider": "GCP",
+      "region": "europe-west12",
+      "zones": [
+        "asia-south2-a",
+        "asia-south2-c"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9343",
+    "name": "CSS",
+    "region": {
+      "provider": "Oracle",
+      "region": "sa-santiago-1",
+      "zones": [
+        "AMS-AD-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-2519",
+    "name": "RSS",
+    "region": {
+      "provider": "OVH",
+      "region": "gra",
+      "zones": [
+        "syd-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9924",
+    "name": "ADP",
+    "region": {
+      "provider": "IBM",
+      "region": "eu-gb",
+      "zones": [
+        "eu-gb-2",
+        "eu-gb-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-1253",
+    "name": "ADP",
+    "region": {
+      "provider": "Hetzner",
+      "region": "ap-sin",
+      "zones": [
+        "eu-fsn1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-9110",
+    "name": "DRAM",
+    "region": {
+      "provider": "Hetzner",
+      "region": "us-east",
+      "zones": [
+        "ap-sin1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-2916",
+    "name": "RAM",
+    "region": {
+      "provider": "Azure",
+      "region": "germanynorth",
+      "zones": [
+        "uaenorth-3",
+        "uaenorth-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-2686",
+    "name": "ASCII",
+    "region": {
+      "provider": "Alibaba",
+      "region": "cn-huhehaote",
+      "zones": [
+        "me-east-1-b",
+        "me-east-1-a"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-4923",
+    "name": "DRAM",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "syd",
+      "zones": [
+        "blr1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-3353",
+    "name": "VGA",
+    "region": {
+      "provider": "Azure",
+      "region": "brazilsouth",
+      "zones": [
+        "francecentral-1",
+        "francecentral-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-5459",
+    "name": "THX",
+    "region": {
+      "provider": "IBM",
+      "region": "us-east",
+      "zones": [
+        "eu-gb-2",
+        "eu-gb-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-2232",
+    "name": "RSS",
+    "region": {
+      "provider": "Oracle",
+      "region": "af-johannesburg-1",
+      "zones": [
+        "MXP-AD-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-5261",
+    "name": "TCP",
+    "region": {
+      "provider": "UpCloud",
+      "region": "fi-hel",
+      "zones": [
+        "jp-tok1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-1230",
+    "name": "TCP",
+    "region": {
+      "provider": "GCP",
+      "region": "europe-west1",
+      "zones": [
+        "europe-west2-a",
+        "europe-west2-c"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-8112",
+    "name": "SSL",
+    "region": {
+      "provider": "OVH",
+      "region": "vhk",
+      "zones": [
+        "syd-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-1546",
+    "name": "RAM",
+    "region": {
+      "provider": "OVH",
+      "region": "vhk",
+      "zones": [
+        "sgp-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-8989",
+    "name": "XSS",
+    "region": {
+      "provider": "Kamatera",
+      "region": "sg-sin",
+      "zones": [
+        "us-ny-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-2264",
+    "name": "JBOD",
+    "region": {
+      "provider": "UpCloud",
+      "region": "jp-tok",
+      "zones": [
+        "fi-hel2",
+        "fi-hel1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-9234",
+    "name": "SMS",
+    "region": {
+      "provider": "Kamatera",
+      "region": "il-tlv",
+      "zones": [
+        "de-fra-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-1299",
+    "name": "XML",
+    "region": {
+      "provider": "Vultr",
+      "region": "scl",
+      "zones": [
+        "tlv-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-1177",
+    "name": "SMS",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "sfo",
+      "zones": [
+        "lon1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-6404",
+    "name": "CSS",
+    "region": {
+      "provider": "OVH",
+      "region": "vhk",
+      "zones": [
+        "vhk-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-6344",
+    "name": "CSS",
+    "region": {
+      "provider": "Azure",
+      "region": "westeurope",
+      "zones": [
+        "northeurope-3",
+        "northeurope-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-8593",
+    "name": "SQL",
+    "region": {
+      "provider": "Hetzner",
+      "region": "us-east",
+      "zones": [
+        "eu-nbg1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-2761",
+    "name": "SSL",
+    "region": {
+      "provider": "OVH",
+      "region": "hil",
+      "zones": [
+        "uk-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-1349",
+    "name": "TCP",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "sfo",
+      "zones": [
+        "fra1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-5420",
+    "name": "IP",
+    "region": {
+      "provider": "Linode",
+      "region": "eu-central",
+      "zones": [
+        "ap-west-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-3545",
+    "name": "JSON",
+    "region": {
+      "provider": "IBM",
+      "region": "ca-mon",
+      "zones": [
+        "ca-mon-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-3755",
+    "name": "VGA",
+    "region": {
+      "provider": "Hetzner",
+      "region": "eu-nbg",
+      "zones": [
+        "eu-fsn1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-6410",
+    "name": "SSD",
+    "region": {
+      "provider": "Vultr",
+      "region": "jnb",
+      "zones": [
+        "jnb-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-4754",
+    "name": "CLI",
+    "region": {
+      "provider": "Linode",
+      "region": "eu-north",
+      "zones": [
+        "us-west-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-3434",
+    "name": "UDP",
+    "region": {
+      "provider": "UpCloud",
+      "region": "uk-lon",
+      "zones": [
+        "sg-sin1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-7505",
+    "name": "ASCII",
+    "region": {
+      "provider": "Hetzner",
+      "region": "us-east",
+      "zones": [
+        "us-east-1",
+        "us-east-2"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-3743",
+    "name": "PCI",
+    "region": {
+      "provider": "Oracle",
+      "region": "us-phoenix-1",
+      "zones": [
+        "ICN-AD-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9478",
+    "name": "IB",
+    "region": {
+      "provider": "AWS",
+      "region": "me-south-1",
+      "zones": [
+        "eu-central-1a",
+        "eu-central-1c"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-4799",
+    "name": "COM",
+    "region": {
+      "provider": "Alibaba",
+      "region": "me-east-1",
+      "zones": [
+        "eu-west-1-b",
+        "eu-west-1-a"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-4782",
+    "name": "PCI",
+    "region": {
+      "provider": "IBM",
+      "region": "br-sao",
+      "zones": [
+        "jp-tok-1",
+        "jp-tok-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-5600",
+    "name": "AGP",
+    "region": {
+      "provider": "Vultr",
+      "region": "jnb",
+      "zones": [
+        "mex-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-7996",
+    "name": "RSS",
+    "region": {
+      "provider": "UpCloud",
+      "region": "nl-ams",
+      "zones": [
+        "se-sto1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-2256",
+    "name": "IB",
+    "region": {
+      "provider": "Scaleway",
+      "region": "ap-sgp",
+      "zones": [
+        "pl-waw-2",
+        "pl-waw-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-5142",
+    "name": "VGA",
+    "region": {
+      "provider": "Scaleway",
+      "region": "af-jnb",
+      "zones": [
+        "fr-par-1",
+        "fr-par-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-3851",
+    "name": "DNS",
+    "region": {
+      "provider": "Linode",
+      "region": "eu-south",
+      "zones": [
+        "eu-west-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-8994",
+    "name": "HDD",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "sfo",
+      "zones": [
+        "blr1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-5019",
+    "name": "VGA",
+    "region": {
+      "provider": "IBM",
+      "region": "ca-tor",
+      "zones": [
+        "us-south-2",
+        "us-south-3"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-6711",
+    "name": "XML",
+    "region": {
+      "provider": "Scaleway",
+      "region": "fr-par",
+      "zones": [
+        "ap-sgp-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-5389",
+    "name": "ASCII",
+    "region": {
+      "provider": "Alibaba",
+      "region": "eu-west-3",
+      "zones": [
+        "us-west-1-b",
+        "us-west-1-a"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-1153",
+    "name": "RSS",
+    "region": {
+      "provider": "AWS",
+      "region": "af-south-1",
+      "zones": [
+        "sa-east-1c",
+        "sa-east-1a"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-2401",
+    "name": "UTF8",
+    "region": {
+      "provider": "AWS",
+      "region": "eu-central-1",
+      "zones": [
+        "eu-west-2a",
+        "eu-west-2b"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-7750",
+    "name": "XML",
+    "region": {
+      "provider": "GCP",
+      "region": "me-central1",
+      "zones": [
+        "northamerica-northeast2-a",
+        "northamerica-northeast2-c"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-3129",
+    "name": "SDD",
+    "region": {
+      "provider": "UpCloud",
+      "region": "au-syd",
+      "zones": [
+        "sg-sin1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-1144",
+    "name": "HDD",
+    "region": {
+      "provider": "IBM",
+      "region": "jp-tok",
+      "zones": [
+        "us-south-3",
+        "us-south-2"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-1491",
+    "name": "COM",
+    "region": {
+      "provider": "Scaleway",
+      "region": "nl-ams",
+      "zones": [
+        "ap-sgp-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-9331",
+    "name": "JSON",
+    "region": {
+      "provider": "GCP",
+      "region": "me-central1",
+      "zones": [
+        "asia-south1-c",
+        "asia-south1-b"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-5154",
+    "name": "COM",
+    "region": {
+      "provider": "Vultr",
+      "region": "scl",
+      "zones": [
+        "arn-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-7200",
+    "name": "CLI",
+    "region": {
+      "provider": "Kamatera",
+      "region": "us-tx",
+      "zones": [
+        "hk-hkg-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-9077",
+    "name": "SQL",
+    "region": {
+      "provider": "GCP",
+      "region": "southamerica-east1",
+      "zones": [
+        "us-east4-c",
+        "us-east4-b"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-9283",
+    "name": "TLS",
+    "region": {
+      "provider": "UpCloud",
+      "region": "uk-lon",
+      "zones": [
+        "sg-sin1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-6893",
+    "name": "HDD",
+    "region": {
+      "provider": "Hetzner",
+      "region": "us-west",
+      "zones": [
+        "us-east-1",
+        "us-east-2"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-8116",
+    "name": "SAS",
+    "region": {
+      "provider": "IBM",
+      "region": "in-che",
+      "zones": [
+        "eu-gb-3",
+        "eu-gb-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9846",
+    "name": "HTTP",
+    "region": {
+      "provider": "Hetzner",
+      "region": "eu-fsn",
+      "zones": [
+        "eu-fsn1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-4644",
+    "name": "CSS",
+    "region": {
+      "provider": "OVH",
+      "region": "syd",
+      "zones": [
+        "de-1",
+        "de-2"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-1271",
+    "name": "JSON",
+    "region": {
+      "provider": "Alibaba",
+      "region": "ap-southeast-5",
+      "zones": [
+        "eu-west-1-a",
+        "eu-west-1-b"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-7433",
+    "name": "COM",
+    "region": {
+      "provider": "AWS",
+      "region": "ap-south-1",
+      "zones": [
+        "sa-east-1a",
+        "sa-east-1c"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-7349",
+    "name": "SDD",
+    "region": {
+      "provider": "Scaleway",
+      "region": "ap-sgp",
+      "zones": [
+        "ap-sgp-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9224",
+    "name": "HEX",
+    "region": {
+      "provider": "Hetzner",
+      "region": "eu-fsn",
+      "zones": [
+        "eu-nbg1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-3206",
+    "name": "HEX",
+    "region": {
+      "provider": "Oracle",
+      "region": "af-johannesburg-1",
+      "zones": [
+        "DXB-AD-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-9321",
+    "name": "SQL",
+    "region": {
+      "provider": "OVH",
+      "region": "hil",
+      "zones": [
+        "uk-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-3993",
+    "name": "EXE",
+    "region": {
+      "provider": "Scaleway",
+      "region": "ap-sgp",
+      "zones": [
+        "pl-waw-1",
+        "pl-waw-2"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-9287",
+    "name": "SQL",
+    "region": {
+      "provider": "GCP",
+      "region": "southamerica-west1",
+      "zones": [
+        "southamerica-east1-c",
+        "southamerica-east1-b"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-8051",
+    "name": "VGA",
+    "region": {
+      "provider": "Vultr",
+      "region": "jnb",
+      "zones": [
+        "cdg-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-2671",
+    "name": "IP",
+    "region": {
+      "provider": "Azure",
+      "region": "germanynorth",
+      "zones": [
+        "southeastasia-3",
+        "southeastasia-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-8696",
+    "name": "PNG",
+    "region": {
+      "provider": "UpCloud",
+      "region": "de-fra",
+      "zones": [
+        "uk-lon1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-1280",
+    "name": "FTP",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "sgp",
+      "zones": [
+        "nyc1",
+        "nyc3"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-5109",
+    "name": "SMS",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "lon",
+      "zones": [
+        "sgp1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-2688",
+    "name": "SCSI",
+    "region": {
+      "provider": "Alibaba",
+      "region": "me-east-1",
+      "zones": [
+        "cn-chengdu-a",
+        "cn-chengdu-b"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-3755",
+    "name": "ASCII",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "fra",
+      "zones": [
+        "blr1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-2280",
+    "name": "XSS",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "ams",
+      "zones": [
+        "lon1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-3202",
+    "name": "SDD",
+    "region": {
+      "provider": "AWS",
+      "region": "eu-west-2",
+      "zones": [
+        "me-central-1a",
+        "me-central-1c"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-8671",
+    "name": "HTTP",
+    "region": {
+      "provider": "Alibaba",
+      "region": "eu-west-3",
+      "zones": [
+        "cn-shanghai-c",
+        "cn-shanghai-b"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-8458",
+    "name": "SQL",
+    "region": {
+      "provider": "Hetzner",
+      "region": "ap-sin",
+      "zones": [
+        "eu-nbg1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "ready",
+    "id": "CLUS-9347",
+    "name": "SDD",
+    "region": {
+      "provider": "IBM",
+      "region": "eu-es",
+      "zones": [
+        "au-syd-1",
+        "au-syd-2"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-2744",
+    "name": "API",
+    "region": {
+      "provider": "Linode",
+      "region": "br-gru",
+      "zones": [
+        "ap-west-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-2621",
+    "name": "TCP",
+    "region": {
+      "provider": "Scaleway",
+      "region": "af-jnb",
+      "zones": [
+        "pl-waw-1",
+        "pl-waw-2"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-8724",
+    "name": "PNG",
+    "region": {
+      "provider": "Alibaba",
+      "region": "cn-nanjing",
+      "zones": [
+        "eu-west-3-a",
+        "eu-west-3-b"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-8805",
+    "name": "ADP",
+    "region": {
+      "provider": "Kamatera",
+      "region": "us-tx",
+      "zones": [
+        "il-rh-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "pending",
+    "id": "CLUS-9669",
+    "name": "VGA",
+    "region": {
+      "provider": "IBM",
+      "region": "jp-osa",
+      "zones": [
+        "jp-tok-3",
+        "jp-tok-1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-5380",
+    "name": "SAS",
+    "region": {
+      "provider": "Azure",
+      "region": "uaecentral",
+      "zones": []
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-5190",
+    "name": "API",
+    "region": {
+      "provider": "Azure",
+      "region": "koreasouth",
+      "zones": [
+        "australiaeast-1",
+        "australiaeast-2"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-4160",
+    "name": "DNS",
+    "region": {
+      "provider": "Scaleway",
+      "region": "af-jnb",
+      "zones": [
+        "fr-par-1",
+        "fr-par-3"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "deleting",
+    "id": "CLUS-8520",
+    "name": "XSS",
+    "region": {
+      "provider": "DigitalOcean",
+      "region": "blr",
+      "zones": [
+        "fra1"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-5366",
+    "name": "UTF8",
+    "region": {
+      "provider": "GCP",
+      "region": "me-central1",
+      "zones": [
+        "us-west2-c",
+        "us-west2-a"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-3138",
+    "name": "COM",
+    "region": {
+      "provider": "Scaleway",
+      "region": "ap-sgp",
+      "zones": [
+        "fr-par-2",
+        "fr-par-3"
+      ]
+    },
+    "availibityType": "HA"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-5989",
+    "name": "RAM",
+    "region": {
+      "provider": "Vultr",
+      "region": "tlv",
+      "zones": [
+        "tlv-1"
+      ]
+    },
+    "availibityType": "single"
+  },
+  {
+    "status": "installing",
+    "id": "CLUS-2786",
+    "name": "JSON",
+    "region": {
+      "provider": "Linode",
+      "region": "br-gru",
+      "zones": [
+        "ap-southeast-sid-1"
+      ]
+    },
+    "availibityType": "HA"
+  }
+]

@@ -1,0 +1,4 @@
+packages:
+  git: 226216574ada4c3ecefcbbec41f39ce4655f78ef#git
+  neovim: 226216574ada4c3ecefcbbec41f39ce4655f78ef#neovim
+libraries: {}
